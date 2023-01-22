@@ -1,1 +1,1 @@
-# iNeuron_Full_Stack_Data_Science_Assignments
+This Repository consists of Assignments and projects of the iNeuron Full Stack Data Science Course
